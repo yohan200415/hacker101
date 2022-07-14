@@ -7,7 +7,7 @@ sidebar:
       - text: "Understanding HackerOne's Code of Conduct"
         url: /resources/articles/code_of_conduct
       - text: "How to Write a Good Report and Use the CVSS Calculator"
-        url: /resources/articles/writing_a_report_and_cvss
+        url: /resoarticles/writing_a_report_and_cvss
       - text: "How and When to Ask for More Help"
         url: /resources/articles/asking_for_help
   - title: Suggested Material
